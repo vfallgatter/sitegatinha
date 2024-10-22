@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sitegatinha/static/css/main.6ee8cfe4.css",
+    "main.js": "/sitegatinha/static/js/main.a9dac527.js",
+    "index.html": "/sitegatinha/index.html",
+    "main.6ee8cfe4.css.map": "/sitegatinha/static/css/main.6ee8cfe4.css.map",
+    "main.a9dac527.js.map": "/sitegatinha/static/js/main.a9dac527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ee8cfe4.css",
+    "static/js/main.a9dac527.js"
+  ]
+}
